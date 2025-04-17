@@ -62,10 +62,6 @@ screen -S bitz
 ```bash
 bitz collect
 ```
-
-![image](https://github.com/user-attachments/assets/7c526a4b-07da-4ad5-889f-17674761b5e7)
-
-
 ### Usefull Commands
 
 Check account info:
